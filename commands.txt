@@ -1,4 +1,6 @@
+
 git init 
 git status
 git clone
 git remote -v
+git pull origin main
